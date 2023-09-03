@@ -5,7 +5,7 @@
 ## Project Details
 
 - [Resume Building Analytics- Sponsored Project by CoverQuick](ALY6080-XN_CoverQuick_Project/FinalCoverQuickAnalysis/ALY6080_Final_Report_CoverQuick.pdf)
-- [Online Fraud Detection](ALY6040-Data_Mining/FinalProject/ALY6040_OnlineFraudDetection_FinalProject.pdf)
+- [Online Payment Fraud Detection](ALY6040-Data_Mining/FinalProject/ALY6040_OnlineFraudDetection_FinalProject.pdf)
 - [Optimization Problem Solving on Rockhill Shipping and Transport Company](ALY6050-Enterprise_Analytics/FinalProject/ALY6050_FinalProject_DikshitA.pdf)
 
 ### Subjects:
