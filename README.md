@@ -15,7 +15,8 @@
 - [ALY6040- Data Mining Applications](ALY6040-Data_Mining)
 - [ALY6080- Integrated Experiential Learning](ALY6080-XN_CoverQuick_Project)
 - [ALY60110- Integrated Experiential Learning](ALY6110-DataManagementAndBigData)
-- [EAI6000- Integrated Experiential Learning](EAI6000-FundamentalsOfArtificialIntelligence)
+- [EAI6000- Fundamentals of Artificial Intelligence](EAI6000-FundamentalsOfAI)
+- [EAI6010- Applications of Artificial Intelligence](EAI6010-ApplicationsOfAI)
 
 ## License
 
