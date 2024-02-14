@@ -1,0 +1,7 @@
+setuptools
+tilapya
+fastkml
+geojson
+requests
+urllib3
+click
