@@ -6,7 +6,11 @@
 
 
 - [YOLOv9 Implementation for Traffic Congestion- Object Detection](ALY6980-Capstone-TRANSLINK/Week12/ALY6980_W12_YOLO_Individual__Proposal_Dikshit.pdf)
+- [FACE AGING USING Cycle-GAN (Cycle-Generative adversarial networks)](EAI6020-AI_System_Technologies/Week6-FinalProject/EAI6020-FINAL-PROJECT-GAN.pdf)
+- [Training PSPNet for Semantic Segmentation on Traffic Post Images](EAI6020-AI_System_Technologies/Week2_PSPNet/EAI6020_M2_PSPNet.pdf)
+- [Audio Classification with PyTorch](EAI6010-ApplicationsOfAI/Week4/EAI6010_W4_Audio_Classification_Dikshit.pdf)
 - [Implementation of Natural Language Toolkit (NLTK) using NLP on Indian Laguage](EAI6000-FundamentalsOfArtificialIntelligence/Week6-NLP-NLTK-IndianLanguage/EAI6000_M6_NLTK_NLP_Dikshit.ipynb)
+- [Regression Model Performance Report on Student Loan](EAI6020-AI_System_Technologies/Week1_StudentLoan_NeuralNetwork/EAI6020_M1_NeuralNetwork.pdf)
 - [Resume Building Analytics- Sponsored Project by CoverQuick](ALY6080-XN_CoverQuick_Project/FinalCoverQuickAnalysis/ALY6080_Final_Report_CoverQuick.pdf)
 - [Online Payment Fraud Detection](ALY6040-Data_Mining/FinalProject/ALY6040_OnlineFraudDetection_FinalProject.pdf)
 
